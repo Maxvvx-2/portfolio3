@@ -1,0 +1,26 @@
+.servis{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #202020;
+  color: #fff;
+text-align: center;
+}
+.buton{
+  margin-top: 10px;
+
+}
+.btn{
+  color: #ffffff62;
+  margin: 15px;
+  border: #ffffff5d 1px solid;
+  width: 150px;
+  height: 150px;
+}
+.btn:hover{
+  color: #202020;
+  background-color: #fff;
+}
+.reacr-btn{}
+.reacr-next{}
+.reacr-css{}
+.reacr-html{}
